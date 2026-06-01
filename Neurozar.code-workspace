@@ -1,14 +1,17 @@
 {
   "folders": [
-	{
-		"path": "."
-	},
-	{
-		"path": "../TradingAgents"
-	},
-	{
-		"path": "../Vibe-Trading"
-	}
-],
-  "settings": {}
+    {
+      "path": ".",
+    },
+    {
+      "path": "../TradingAgents",
+    },
+    {
+      "path": "../Vibe-Trading",
+    },
+    {
+      "path": "../Neurozar-UI",
+    },
+  ],
+  "settings": {},
 }
