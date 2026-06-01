@@ -17,5 +17,5 @@ services:
     # discarding the user's local Vue edits.
     pull_policy: build
     build:
-      context: ${FRONTEND_SRC_PATH:-./QuantDinger-Vue}
+      context: ${FRONTEND_SRC_PATH:-./Neurozar-UI}
       dockerfile: Dockerfile
